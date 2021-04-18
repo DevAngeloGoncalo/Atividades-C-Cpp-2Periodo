@@ -1,0 +1,8 @@
+
+Nome: aa
+Personagem: a
+Senha: a
+
+Nome: a
+Personagem: 
+Senha: a

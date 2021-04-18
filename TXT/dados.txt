@@ -1,0 +1,24 @@
+
+Nome: angelo
+Personagem: samu
+Senha: angelo
+Força: 1
+Destreza: 10
+Poder Mágico: 2
+Defesa: 2
+
+Nome: samu
+Personagem: angelo
+Senha: 20
+Força: 2
+Destreza: 3
+Poder Mágico: 4
+Defesa: 6
+
+Nome: a
+Personagem: a
+Senha: a
+Força: 11
+Destreza: 1
+Poder Mágico: 1
+Defesa: 2
